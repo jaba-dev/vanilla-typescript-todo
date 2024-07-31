@@ -1,0 +1,3 @@
+deployment: https://vanilla-typescript-todo.netlify.app/
+
+when deploying I had to write dist as publish directory since static files are located inside dist in the repo.
